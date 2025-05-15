@@ -1,3 +1,3 @@
-keys = ["fruit", "taste", "color"]
-apple_dict = dict.fromkeys(keys, "apple")
-print(apple_dict)  # Output: {'fruit': 'apple', 'taste': 'apple', 'color': 'apple'}
+keys = ["food", "smell", "color"]
+cheese_dict = dict.fromkeys(keys, "cheese")
+print(cheese_dict)  # Output: {'food': 'cheese', 'smell': 'cheese', 'color': 'cheese'}
