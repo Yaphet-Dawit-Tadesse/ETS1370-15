@@ -1,1 +1,1 @@
-
+clear() – clears all items
